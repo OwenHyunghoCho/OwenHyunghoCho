@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/PUBG-FEAB02?style=flat-square&logo=pubg&logoColor=white"/> <img src="https://img.shields.io/badge/League Of Legends-C28F2C?style=flat-square&logo=leagueoflegends&logoColor=white"/> <img src="https://img.shields.io/badge/Premider League-360D3A?style=flat-square&logo=premierleague&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLB-041E42?style=flat-square&logo=mlb&logoColor=white"/> <img src="https://img.shields.io/badge/NBA-253B73?style=flat-square&logo=nba&logoColor=white"/>
+<img src="https://img.shields.io/badge/PUBG-FEAB02?style=flat-square&logo=pubg&logoColor=white"/> <img src="https://img.shields.io/badge/League Of Legends-C28F2C?style=flat-square&logo=leagueoflegends&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premider League-360D3A?style=flat-square&logo=premierleague&logoColor=white"/><img src="https://img.shields.io/badge/MLB-041E42?style=flat-square&logo=mlb&logoColor=white"/><img src="https://img.shields.io/badge/NBA-253B73?style=flat-square&logo=nba&logoColor=white"/>
 
 <!--
 **OwenHyunghoCho/OwenHyunghoCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
